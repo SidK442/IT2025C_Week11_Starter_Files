@@ -1,0 +1,37 @@
+SAMPLE MONTHLY BUDGET - OCTOBER 2026
+Student: Alex Rivera (fictional person, made-up numbers)
+
+Section 1: Income
+- Part-time job (campus bookstore): $1,400
+- Family support: $300
+Total income: $1,700
+
+Section 2: Fixed expenses
+- Rent (shared apartment): $650
+- Utilities: $60
+- Phone plan: $45
+- Car insurance: $95
+Total fixed expenses: $850
+
+Section 3: Variable expenses
+- Groceries: $210
+- Eating out: $125
+- Gas: $70
+- Entertainment: $55
+- Subscriptions (music $12, video $15): $27
+- Clothing: $60
+Total variable expenses: $547
+Total food (groceries + eating out): $335
+
+Section 4: Savings
+- Emergency fund: $150
+- Spring break trip fund: $75
+Total savings: $225
+
+Section 5: Summary
+- Total income: $1,700
+- Total expenses (fixed + variable): $1,397
+- Total savings: $225
+- Left over at end of month: $78
+- Biggest single expense: Rent ($650)
+- Goal for November: cut eating out from $125 to $90
